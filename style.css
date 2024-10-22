@@ -5,7 +5,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
-            background-image: url('ruta/a/tu/fondo.jpg'); /* Cambia esta ruta */
+    background-image: url('mine.jpg'); /* Cambia esta ruta */
             background-size: cover; /* Ajusta la imagen de fondo para cubrir todo el contenedor */
             background-position: center; /* Centra la imagen */
             background-repeat: no-repeat; /* Evita que la imagen se repita */
