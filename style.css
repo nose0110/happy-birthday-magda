@@ -1,40 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Indie+Flower');
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 
-    body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
     background-image: url('mine.jpg'); /* Cambia esta ruta */
-            background-size: cover; /* Ajusta la imagen de fondo para cubrir todo el contenedor */
-            background-position: center; /* Centra la imagen */
-            background-repeat: no-repeat; /* Evita que la imagen se repita */
-            color: #333; /* Color del texto */
-        }
-        .container {
-            background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco con un poco de transparencia */
-            margin: 20px;
-            padding: 20px;
-            border-radius: 10px;
-            max-width: 600px;
-            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1); /* Sombra para darle profundidad */
-        }
-        h1 {
-            text-align: center;
-            color: #FF6B6B;
-        }
-        .photo {
-            text-align: center;
-            margin: 20px 0;
-        }
-        img {
-            max-width: 100%; /* Asegura que la imagen no se salga del contenedor */
-            border-radius: 10px; /* Bordes redondeados para la imagen */
-        }
-        .message {
-            font-size: 18px;
-            line-height: 1.5;
-        }
+    background-size: cover; /* Ajusta la imagen de fondo para cubrir todo el contenedor */
+    color: #333; /* Color del texto */
+}
 ::selection {
 	background: transparent;
 }
